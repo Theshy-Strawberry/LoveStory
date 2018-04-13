@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # LoveStory
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14,6 +15,9 @@ test rollback
 =======
 test commit
 >>>>>>> parent of c491575... Revert "Initial commit"
+=======
+# LoveStory
+>>>>>>> parent of 0e6678c... 123
 =======
 # LoveStory
 >>>>>>> parent of 0e6678c... 123
